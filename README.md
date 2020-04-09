@@ -6,6 +6,7 @@
 ## WITHOUT ES6
 
 #### Important: You shouldn't use global variables
+#### Important: task 10 till the end of the course
 
 ##### 1) Write a function splitAndMerge
 Function accept 2 parameters:str and sp. str is a sentence. sp is a char as separator. First we need to divide the sentence into words(Use separator space); and then divide each word into characters(Use separator empty string); and then merge each characters with the specified sp; at last merge all the words(Use separator space) and return it.
@@ -83,7 +84,7 @@ Example:
 countDown(3); // 3 2 1 0
 ```
 
-##### 10) Write a polyfill for a .bind() function and save it in Function.prototype.myBind(). myBind() should work in an exact same way as the usual bind() - take context as a first parameter and the list of arguments separated by comma.
+##### 10*) Write a polyfill for a .bind() function and save it in Function.prototype.myBind(). myBind() should work in an exact same way as the usual bind() - take context as a first parameter and the list of arguments separated by comma.
 Hint: play with the function in Function.prototype and see what this points to inside it. Your code should look like:
 ```javascript
 Function.prototype.myBind = function () {
