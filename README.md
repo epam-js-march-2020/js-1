@@ -1,7 +1,7 @@
 # JS-1
 ## Functions
 
-## Deadline 09.04 EOD
+## Deadline 10.04 EOD
 
 ## WITHOUT ES6
 
