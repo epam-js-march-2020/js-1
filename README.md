@@ -3,6 +3,8 @@
 
 ## Deadline 10.04 EOD
 
+## FIXES Deadline 24.04 EOD
+
 ## WITHOUT ES6
 
 #### Important: You shouldn't use global variables
